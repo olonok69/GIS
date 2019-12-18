@@ -35,6 +35,35 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.197694948,
+          53.50141702
+        ]
+      },
+      "properties": {
+        "Name": "SIG:MN713",
+        "berth": "M20713",
+        "platform": 0,
+        "observation": "",
+        "x": 3786.701992103153,
+        "y": -145.31785056194917,
+        "z": 5121.465780937139,
+        "style": {
+          "color": "red"
+        },
+        "icon": "circle",
+        "iconstyle": {
+          "fillColor": "red",
+          "fillOpacity": 0.8,
+          "stroke": "true",
+          "radius": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.217149164,
           53.494566799999994
         ]
@@ -279,6 +308,35 @@
         "x": 3786.9950400893363,
         "y": -146.00301253669127,
         "z": 5121.229606907797,
+        "style": {
+          "color": "red"
+        },
+        "icon": "circle",
+        "iconstyle": {
+          "fillColor": "red",
+          "fillOpacity": 0.8,
+          "stroke": "true",
+          "radius": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.201983144,
+          53.49483266
+        ]
+      },
+      "properties": {
+        "Name": "SIG:MN1622",
+        "berth": "M21622",
+        "platform": 0,
+        "observation": "",
+        "x": 3787.2791983560264,
+        "y": -145.623871454696,
+        "z": 5121.030263703025,
         "style": {
           "color": "red"
         },
@@ -760,6 +818,64 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.1189,
+          53.4916
+        ]
+      },
+      "properties": {
+        "Name": "SIG:AMN21",
+        "berth": "M2E021",
+        "platform": " ",
+        "observation": "fake",
+        "x": 3787.7751097606474,
+        "y": -140.14256614522407,
+        "z": 5120.816417235825,
+        "style": {
+          "color": "red"
+        },
+        "icon": "circle",
+        "iconstyle": {
+          "fillColor": "red",
+          "fillOpacity": 0.8,
+          "stroke": "true",
+          "radius": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.197756893,
+          53.50146768
+        ]
+      },
+      "properties": {
+        "Name": "SIG:MN867",
+        "berth": "M2X867",
+        "platform": 0,
+        "observation": "",
+        "x": 3786.6973100037835,
+        "y": -145.3217708777029,
+        "z": 5121.469131540196,
+        "style": {
+          "color": "red"
+        },
+        "icon": "circle",
+        "iconstyle": {
+          "fillColor": "red",
+          "fillOpacity": 0.8,
+          "stroke": "true",
+          "radius": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.24150306,
           53.48864052
         ]
@@ -818,6 +934,35 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.2350439509999998,
+          53.49034459
+        ]
+      },
+      "properties": {
+        "Name": "SIG:MN703",
+        "berth": "M30703",
+        "platform": 0,
+        "observation": "",
+        "x": 3787.595361694307,
+        "y": -147.82482622906127,
+        "z": 5120.733365136494,
+        "style": {
+          "color": "red"
+        },
+        "icon": "circle",
+        "iconstyle": {
+          "fillColor": "red",
+          "fillOpacity": 0.8,
+          "stroke": "true",
+          "radius": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.2414787940000003,
           53.48861644
         ]
@@ -830,6 +975,35 @@
         "x": 3787.733066906605,
         "y": -148.25624779120946,
         "z": 5120.619034731362,
+        "style": {
+          "color": "red"
+        },
+        "icon": "circle",
+        "iconstyle": {
+          "fillColor": "red",
+          "fillOpacity": 0.8,
+          "stroke": "true",
+          "radius": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.235023376,
+          53.49031476
+        ]
+      },
+      "properties": {
+        "Name": "SIG:MN757",
+        "berth": "M30757",
+        "platform": 0,
+        "observation": "",
+        "x": 3787.5980787657295,
+        "y": -147.82357006884496,
+        "z": 5120.731391692231,
         "style": {
           "color": "red"
         },
@@ -1253,6 +1427,122 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.24150306,
+          53.48864052
+        ]
+      },
+      "properties": {
+        "Name": "SIG:MN701",
+        "berth": "M3X701",
+        "platform": 0,
+        "observation": "",
+        "x": 3787.7308536932514,
+        "y": -148.25776780698703,
+        "z": 5120.620627840445,
+        "style": {
+          "color": "red"
+        },
+        "icon": "circle",
+        "iconstyle": {
+          "fillColor": "red",
+          "fillOpacity": 0.8,
+          "stroke": "true",
+          "radius": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.2414787940000003,
+          53.48861644
+        ]
+      },
+      "properties": {
+        "Name": "SIG:MN753",
+        "berth": "M3X753",
+        "platform": 0,
+        "observation": "",
+        "x": 3787.733066906605,
+        "y": -148.25624779120946,
+        "z": 5120.619034731362,
+        "style": {
+          "color": "red"
+        },
+        "icon": "circle",
+        "iconstyle": {
+          "fillColor": "red",
+          "fillOpacity": 0.8,
+          "stroke": "true",
+          "radius": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.241370549,
+          53.48850904
+        ]
+      },
+      "properties": {
+        "Name": "SIG:MN803",
+        "berth": "M3X803",
+        "platform": 0,
+        "observation": "",
+        "x": 3787.742938156614,
+        "y": -148.24946727694132,
+        "z": 5120.61192924213,
+        "style": {
+          "color": "red"
+        },
+        "icon": "circle",
+        "iconstyle": {
+          "fillColor": "red",
+          "fillOpacity": 0.8,
+          "stroke": "true",
+          "radius": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.241348964,
+          53.48848763
+        ]
+      },
+      "properties": {
+        "Name": "SIG:MN857",
+        "berth": "M3X857",
+        "platform": 0,
+        "observation": "",
+        "x": 3787.7449059867513,
+        "y": -148.24811515589886,
+        "z": 5120.610512773271,
+        "style": {
+          "color": "red"
+        },
+        "icon": "circle",
+        "iconstyle": {
+          "fillColor": "red",
+          "fillOpacity": 0.8,
+          "stroke": "true",
+          "radius": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.087516156,
           53.49031687
         ]
@@ -1340,6 +1630,35 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.0726976219999997,
+          53.48413707
+        ]
+      },
+      "properties": {
+        "Name": "SIG:SE7025",
+        "berth": "MZ7025",
+        "platform": 0,
+        "observation": "",
+        "x": 3788.553418550863,
+        "y": -137.11224368458886,
+        "z": 5120.322668291359,
+        "style": {
+          "color": "red"
+        },
+        "icon": "circle",
+        "iconstyle": {
+          "fillColor": "red",
+          "fillOpacity": 0.8,
+          "stroke": "true",
+          "radius": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.077553928,
           53.48437953
         ]
@@ -1352,6 +1671,64 @@
         "x": 3788.520129920186,
         "y": -137.43256990033422,
         "z": 5120.338710858895,
+        "style": {
+          "color": "red"
+        },
+        "icon": "circle",
+        "iconstyle": {
+          "fillColor": "red",
+          "fillOpacity": 0.8,
+          "stroke": "true",
+          "radius": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.073498243,
+          53.48402771
+        ]
+      },
+      "properties": {
+        "Name": "SIG:SE7033",
+        "berth": "MZ7033",
+        "platform": 0,
+        "observation": "",
+        "x": 3788.56126896011,
+        "y": -137.16553652384675,
+        "z": 5120.315432366007,
+        "style": {
+          "color": "red"
+        },
+        "icon": "circle",
+        "iconstyle": {
+          "fillColor": "red",
+          "fillOpacity": 0.8,
+          "stroke": "true",
+          "radius": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.07336983,
+          53.48398567
+        ]
+      },
+      "properties": {
+        "Name": "SIG:SE7035",
+        "berth": "MZ7035",
+        "platform": 0,
+        "observation": "",
+        "x": 3788.5653308713263,
+        "y": -137.15718141160872,
+        "z": 5120.3126507379475,
         "style": {
           "color": "red"
         },
@@ -1514,6 +1891,35 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.061117989,
+          53.48474273
+        ]
+      },
+      "properties": {
+        "Name": "SIG:SE7045",
+        "berth": "MZ7045",
+        "platform": 0,
+        "observation": "",
+        "x": 3788.5269610337205,
+        "y": -136.34461726340706,
+        "z": 5120.362742117388,
+        "style": {
+          "color": "red"
+        },
+        "icon": "circle",
+        "iconstyle": {
+          "fillColor": "red",
+          "fillOpacity": 0.8,
+          "stroke": "true",
+          "radius": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.066884302,
           53.48386062
         ]
@@ -1526,6 +1932,35 @@
         "x": 3788.5919999231387,
         "y": -136.72874140960826,
         "z": 5120.304376635332,
+        "style": {
+          "color": "red"
+        },
+        "icon": "circle",
+        "iconstyle": {
+          "fillColor": "red",
+          "fillOpacity": 0.8,
+          "stroke": "true",
+          "radius": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.061080142,
+          53.48469687
+        ]
+      },
+      "properties": {
+        "Name": "SIG:SE7047",
+        "berth": "MZ7047",
+        "platform": 0,
+        "observation": "",
+        "x": 3788.531146822614,
+        "y": -136.34226213151447,
+        "z": 5120.359707785361,
         "style": {
           "color": "red"
         },
@@ -1804,18 +2239,18 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.9916215730000002,
-          53.56829616
+          -1.990040314,
+          53.56980063
         ]
       },
       "properties": {
-        "Name": "SIG:DE2",
+        "Name": "SIG:DE24",
         "berth": "MZDE24",
-        "platform": " ",
+        "platform": 0,
         "observation": "",
-        "x": 3781.2231017513486,
-        "y": -131.4896163224451,
-        "z": 5125.885614757833,
+        "x": 3781.09221378489,
+        "y": -131.38058744200674,
+        "z": 5125.984960190448,
         "style": {
           "color": "red"
         },
@@ -2189,6 +2624,180 @@
         "Name": "SIG:SE115",
         "berth": "MZE115",
         "platform": " ",
+        "observation": "",
+        "x": 3782.689432346478,
+        "y": -132.6518929339821,
+        "z": 5124.773666584243,
+        "style": {
+          "color": "red"
+        },
+        "icon": "circle",
+        "iconstyle": {
+          "fillColor": "red",
+          "fillOpacity": 0.8,
+          "stroke": "true",
+          "radius": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.112699199,
+          53.4921299
+        ]
+      },
+      "properties": {
+        "Name": "SIG:AMN25",
+        "berth": "MZM325",
+        "platform": 0,
+        "observation": "",
+        "x": 3787.742926584546,
+        "y": -139.7308897234378,
+        "z": 5120.851472222744,
+        "style": {
+          "color": "red"
+        },
+        "icon": "circle",
+        "iconstyle": {
+          "fillColor": "red",
+          "fillOpacity": 0.8,
+          "stroke": "true",
+          "radius": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.066490735,
+          53.483706299999994
+        ]
+      },
+      "properties": {
+        "Name": "SIG:SE7038",
+        "berth": "MZR038",
+        "platform": 0,
+        "observation": "",
+        "x": 3788.6067210336587,
+        "y": -136.70321470861936,
+        "z": 5120.294165809902,
+        "style": {
+          "color": "red"
+        },
+        "icon": "circle",
+        "iconstyle": {
+          "fillColor": "red",
+          "fillOpacity": 0.8,
+          "stroke": "true",
+          "radius": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.066884302,
+          53.48386062
+        ]
+      },
+      "properties": {
+        "Name": "SIG:SE7046",
+        "berth": "MZR046",
+        "platform": 0,
+        "observation": "",
+        "x": 3788.5919999231387,
+        "y": -136.72874140960826,
+        "z": 5120.304376635332,
+        "style": {
+          "color": "red"
+        },
+        "icon": "circle",
+        "iconstyle": {
+          "fillColor": "red",
+          "fillOpacity": 0.8,
+          "stroke": "true",
+          "radius": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.0229838190000002,
+          53.53611683
+        ]
+      },
+      "properties": {
+        "Name": "SIG:SE111",
+        "berth": "MZS111",
+        "platform": 0,
+        "observation": "",
+        "x": 3784.0270485602387,
+        "y": -133.66094590751442,
+        "z": 5123.75985457004,
+        "style": {
+          "color": "red"
+        },
+        "icon": "circle",
+        "iconstyle": {
+          "fillColor": "red",
+          "fillOpacity": 0.8,
+          "stroke": "true",
+          "radius": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.010527351,
+          53.54260153
+        ]
+      },
+      "properties": {
+        "Name": "SIG:SE113",
+        "berth": "MZS113",
+        "platform": 0,
+        "observation": "",
+        "x": 3783.4764467387217,
+        "y": -132.8179254444053,
+        "z": 5124.188362624268,
+        "style": {
+          "color": "red"
+        },
+        "icon": "circle",
+        "iconstyle": {
+          "fillColor": "red",
+          "fillOpacity": 0.8,
+          "stroke": "true",
+          "radius": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.0084335369999997,
+          53.55146066
+        ]
+      },
+      "properties": {
+        "Name": "SIG:SE115",
+        "berth": "MZS115",
+        "platform": 0,
         "observation": "",
         "x": 3782.689432346478,
         "y": -132.6518929339821,
@@ -2703,6 +3312,35 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.100591231,
+          53.95312317
+        ]
+      },
+      "properties": {
+        "Name": "SIG:Y213",
+        "berth": "Y10213",
+        "platform": 0,
+        "observation": "",
+        "x": 3748.3039245587347,
+        "y": -72.00980483613795,
+        "z": 5151.181735984962,
+        "style": {
+          "color": "red"
+        },
+        "icon": "circle",
+        "iconstyle": {
+          "fillColor": "red",
+          "fillOpacity": 0.8,
+          "stroke": "true",
+          "radius": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.096367278,
           53.95591165
         ]
@@ -2715,6 +3353,35 @@
         "x": 3748.05856600653,
         "y": -71.72867563793314,
         "z": 5151.364186589442,
+        "style": {
+          "color": "red"
+        },
+        "icon": "circle",
+        "iconstyle": {
+          "fillColor": "red",
+          "fillOpacity": 0.8,
+          "stroke": "true",
+          "radius": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.0933,
+          53.9592
+        ]
+      },
+      "properties": {
+        "Name": "SIG:Y217",
+        "berth": "Y10217",
+        "platform": 5,
+        "observation": "fake",
+        "x": 3747.766798369557,
+        "y": -71.5223853199057,
+        "z": 5151.579328073765,
         "style": {
           "color": "red"
         },
@@ -2769,7 +3436,7 @@
         "Name": "SIG:Y221",
         "berth": "Y10221",
         "platform": "P3",
-        "observation": "",
+        "observation": "fake",
         "x": 3747.9204678144756,
         "y": -71.53696180965254,
         "z": 5151.467327862263,
@@ -2819,18 +3486,76 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.093477939,
-          53.95748809
+          -1.0941,
+          53.9586
         ]
       },
       "properties": {
         "Name": "SIG:Y223",
         "berth": "Y10223",
-        "platform": " ",
-        "observation": "",
-        "x": 3747.9204678144756,
-        "y": -71.53696180965254,
-        "z": 5151.467327862263,
+        "platform": "P11",
+        "observation": "Fake",
+        "x": 3747.8197365349624,
+        "y": -71.57574409953142,
+        "z": 5151.540074123039,
+        "style": {
+          "color": "red"
+        },
+        "icon": "circle",
+        "iconstyle": {
+          "fillColor": "red",
+          "fillOpacity": 0.8,
+          "stroke": "true",
+          "radius": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.0939,
+          53.9586
+        ]
+      },
+      "properties": {
+        "Name": "SIG:Y225",
+        "berth": "Y10225",
+        "platform": "P10",
+        "observation": "Fake",
+        "x": 3747.819986358609,
+        "y": -71.56266174026062,
+        "z": 5151.540074123039,
+        "style": {
+          "color": "red"
+        },
+        "icon": "circle",
+        "iconstyle": {
+          "fillColor": "red",
+          "fillOpacity": 0.8,
+          "stroke": "true",
+          "radius": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.094,
+          53.9596
+        ]
+      },
+      "properties": {
+        "Name": "SIG:Y227",
+        "berth": "Y10227",
+        "platform": "P9",
+        "observation": "Fake",
+        "x": 3747.729965935139,
+        "y": -71.56748625518094,
+        "z": 5151.605497060398,
         "style": {
           "color": "red"
         },
@@ -2860,6 +3585,35 @@
         "x": 3748.06529252921,
         "y": -71.68645923996803,
         "z": 5151.359880118993,
+        "style": {
+          "color": "red"
+        },
+        "icon": "circle",
+        "iconstyle": {
+          "fillColor": "red",
+          "fillOpacity": 0.8,
+          "stroke": "true",
+          "radius": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.0937,
+          53.9596
+        ]
+      },
+      "properties": {
+        "Name": "SIG:Y231",
+        "berth": "Y10231",
+        "platform": "P7",
+        "observation": "Fake",
+        "x": 3747.730340610248,
+        "y": -71.5478631859856,
+        "z": 5151.605497060398,
         "style": {
           "color": "red"
         },
@@ -2935,18 +3689,76 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.093477939,
-          53.95748809
+          -1.0931,
+          53.9586
         ]
       },
       "properties": {
         "Name": "SIG:Y236",
         "berth": "Y10236",
-        "platform": " ",
-        "observation": "",
-        "x": 3747.9204678144756,
-        "y": -71.53696180965254,
-        "z": 5151.467327862263,
+        "platform": 4,
+        "observation": "Fake",
+        "x": 3747.820985196536,
+        "y": -71.51033229445935,
+        "z": 5151.540074123039,
+        "style": {
+          "color": "red"
+        },
+        "icon": "circle",
+        "iconstyle": {
+          "fillColor": "red",
+          "fillOpacity": 0.8,
+          "stroke": "true",
+          "radius": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.0931,
+          53.9606
+        ]
+      },
+      "properties": {
+        "Name": "SIG:Y237",
+        "berth": "Y10237",
+        "platform": "P2",
+        "observation": "Fake",
+        "x": 3747.641192966295,
+        "y": -71.50690176717983,
+        "z": 5151.670918428489,
+        "style": {
+          "color": "red"
+        },
+        "icon": "circle",
+        "iconstyle": {
+          "fillColor": "red",
+          "fillOpacity": 0.8,
+          "stroke": "true",
+          "radius": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.0931,
+          53.9606
+        ]
+      },
+      "properties": {
+        "Name": "SIG:Y237",
+        "berth": "Y10239",
+        "platform": "P2(siding)",
+        "observation": "Fake",
+        "x": 3747.641192966295,
+        "y": -71.50690176717983,
+        "z": 5151.670918428489,
         "style": {
           "color": "red"
         },
@@ -3225,6 +4037,35 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.105701595,
+          53.94926401
+        ]
+      },
+      "properties": {
+        "Name": "SIG:Y622",
+        "berth": "Y10622",
+        "platform": 0,
+        "observation": "",
+        "x": 3748.6443718894398,
+        "y": -72.3508208773081,
+        "z": 5150.929210523089,
+        "style": {
+          "color": "red"
+        },
+        "icon": "circle",
+        "iconstyle": {
+          "fillColor": "red",
+          "fillOpacity": 0.8,
+          "stroke": "true",
+          "radius": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.100081053,
           53.95323236
         ]
@@ -3254,6 +4095,35 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.096145635,
+          53.956197700000004
+        ]
+      },
+      "properties": {
+        "Name": "SIG:Y628",
+        "berth": "Y10628",
+        "platform": 0,
+        "observation": "",
+        "x": 3748.0331298539027,
+        "y": -71.71368465129797,
+        "z": 5151.382902187654,
+        "style": {
+          "color": "red"
+        },
+        "icon": "circle",
+        "iconstyle": {
+          "fillColor": "red",
+          "fillOpacity": 0.8,
+          "stroke": "true",
+          "radius": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.099742258,
           53.95349722
         ]
@@ -3266,6 +4136,35 @@
         "x": 3748.2713682623134,
         "y": -71.95361936571204,
         "z": 5151.206210833065,
+        "style": {
+          "color": "red"
+        },
+        "icon": "circle",
+        "iconstyle": {
+          "fillColor": "red",
+          "fillOpacity": 0.8,
+          "stroke": "true",
+          "radius": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.0961,
+          53.9564
+        ]
+      },
+      "properties": {
+        "Name": "SIG:Y630",
+        "berth": "Y10630",
+        "platform": 0,
+        "observation": "Fake",
+        "x": 3748.0150017678375,
+        "y": -71.71035147862216,
+        "z": 5151.396138137121,
         "style": {
           "color": "red"
         },
@@ -4414,18 +5313,18 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.093477939,
-          53.95748809
+          -1.095062056,
+          53.95607399
         ]
       },
       "properties": {
-        "Name": "SIG:Y231",
-        "berth": "Y1A231",
-        "platform": " ",
+        "Name": "SIG:Y234",
+        "berth": "Y1A234",
+        "platform": "P1",
         "observation": "",
-        "x": 3747.9204678144756,
-        "y": -71.53696180965254,
-        "z": 5151.467327862263,
+        "x": 3748.045605986228,
+        "y": -71.64301432300502,
+        "z": 5151.374808140643,
         "style": {
           "color": "red"
         },
@@ -4443,18 +5342,47 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.095062056,
-          53.95607399
+          -1.0931,
+          53.9606
         ]
       },
       "properties": {
-        "Name": "SIG:Y234",
-        "berth": "Y1A234",
-        "platform": "P1",
-        "observation": "",
-        "x": 3748.045605986228,
-        "y": -71.64301432300502,
-        "z": 5151.374808140643,
+        "Name": "SIG:Y237",
+        "berth": "Y1A237",
+        "platform": "P2",
+        "observation": "Fake",
+        "x": 3747.641192966295,
+        "y": -71.50690176717983,
+        "z": 5151.670918428489,
+        "style": {
+          "color": "red"
+        },
+        "icon": "circle",
+        "iconstyle": {
+          "fillColor": "red",
+          "fillOpacity": 0.8,
+          "stroke": "true",
+          "radius": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.0931,
+          53.9606
+        ]
+      },
+      "properties": {
+        "Name": "SIG:Y239",
+        "berth": "Y1A239",
+        "platform": "P2(siding)",
+        "observation": "Fake",
+        "x": 3747.641192966295,
+        "y": -71.50690176717983,
+        "z": 5151.670918428489,
         "style": {
           "color": "red"
         },
@@ -4675,6 +5603,35 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.0937,
+          53.9596
+        ]
+      },
+      "properties": {
+        "Name": "SIG:Y231",
+        "berth": "Y1R231",
+        "platform": "P7",
+        "observation": "Fake",
+        "x": 3747.730340610248,
+        "y": -71.5478631859856,
+        "z": 5151.605497060398,
+        "style": {
+          "color": "red"
+        },
+        "icon": "circle",
+        "iconstyle": {
+          "fillColor": "red",
+          "fillOpacity": 0.8,
+          "stroke": "true",
+          "radius": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.095062056,
           53.95607399
         ]
@@ -4687,6 +5644,64 @@
         "x": 3748.045605986228,
         "y": -71.64301432300502,
         "z": 5151.374808140643,
+        "style": {
+          "color": "red"
+        },
+        "icon": "circle",
+        "iconstyle": {
+          "fillColor": "red",
+          "fillOpacity": 0.8,
+          "stroke": "true",
+          "radius": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.0931,
+          53.9606
+        ]
+      },
+      "properties": {
+        "Name": "SIG:Y237",
+        "berth": "Y1R237",
+        "platform": "P2",
+        "observation": "Fake",
+        "x": 3747.641192966295,
+        "y": -71.50690176717983,
+        "z": 5151.670918428489,
+        "style": {
+          "color": "red"
+        },
+        "icon": "circle",
+        "iconstyle": {
+          "fillColor": "red",
+          "fillOpacity": 0.8,
+          "stroke": "true",
+          "radius": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.0931,
+          53.9606
+        ]
+      },
+      "properties": {
+        "Name": "SIG:Y239",
+        "berth": "Y1R239",
+        "platform": "P2(siding)",
+        "observation": "Fake",
+        "x": 3747.641192966295,
+        "y": -71.50690176717983,
+        "z": 5151.670918428489,
         "style": {
           "color": "red"
         },
@@ -4791,6 +5806,35 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.52423234,
+          53.79572596
+        ]
+      },
+      "properties": {
+        "Name": "SIG:L185",
+        "berth": "Y20185",
+        "platform": 0,
+        "observation": "",
+        "x": 3761.8006771160644,
+        "y": -100.0983200188641,
+        "z": 5140.863448096878,
+        "style": {
+          "color": "red"
+        },
+        "icon": "circle",
+        "iconstyle": {
+          "fillColor": "red",
+          "fillOpacity": 0.8,
+          "stroke": "true",
+          "radius": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.517799378,
           53.79357468
         ]
@@ -4832,6 +5876,35 @@
         "x": 3761.724134190675,
         "y": -100.28392992980714,
         "z": 5140.915839774587,
+        "style": {
+          "color": "red"
+        },
+        "icon": "circle",
+        "iconstyle": {
+          "fillColor": "red",
+          "fillOpacity": 0.8,
+          "stroke": "true",
+          "radius": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5197810040000002,
+          53.79423684
+        ]
+      },
+      "properties": {
+        "Name": "SIG:L190 LOS",
+        "berth": "Y20190",
+        "platform": 0,
+        "observation": "",
+        "x": 3761.9420054599327,
+        "y": -99.80960727135994,
+        "z": 5140.765642377839,
         "style": {
           "color": "red"
         },
@@ -5023,6 +6096,35 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.230959916,
+          53.81771894
+        ]
+      },
+      "properties": {
+        "Name": "SIG:M716",
+        "berth": "Y20716",
+        "platform": 0,
+        "observation": "",
+        "x": 3760.2906143532678,
+        "y": -80.79965687652292,
+        "z": 5142.30754730358,
+        "style": {
+          "color": "red"
+        },
+        "icon": "circle",
+        "iconstyle": {
+          "fillColor": "red",
+          "fillOpacity": 0.8,
+          "stroke": "true",
+          "radius": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.227755047,
           53.82647132
         ]
@@ -5139,6 +6241,35 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.2298773570000001,
+          53.82202673
+        ]
+      },
+      "properties": {
+        "Name": "SIG:CF723",
+        "berth": "Y20723",
+        "platform": 0,
+        "observation": "",
+        "x": 3759.9055937639296,
+        "y": -80.72031045329611,
+        "z": 5142.590315926696,
+        "style": {
+          "color": "red"
+        },
+        "icon": "circle",
+        "iconstyle": {
+          "fillColor": "red",
+          "fillOpacity": 0.8,
+          "stroke": "true",
+          "radius": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.221926667,
           53.83823391
         ]
@@ -5238,6 +6369,35 @@
         "x": 3759.3753376777977,
         "y": -80.51727295435599,
         "z": 5142.98114319078,
+        "style": {
+          "color": "red"
+        },
+        "icon": "circle",
+        "iconstyle": {
+          "fillColor": "red",
+          "fillOpacity": 0.8,
+          "stroke": "true",
+          "radius": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.226758193,
+          53.82797186
+        ]
+      },
+      "properties": {
+        "Name": "SIG:CF729",
+        "berth": "Y20729",
+        "platform": 0,
+        "observation": "",
+        "x": 3759.3764787119453,
+        "y": -80.50419768905287,
+        "z": 5142.980513813154,
         "style": {
           "color": "red"
         },
@@ -6241,6 +7401,35 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.315726682,
+          53.78780133
+        ]
+      },
+      "properties": {
+        "Name": "SIG:CF1806",
+        "berth": "Y21806",
+        "platform": 0,
+        "observation": "",
+        "x": 3762.8508500856674,
+        "y": -86.42440589066558,
+        "z": 5140.342916778609,
+        "style": {
+          "color": "red"
+        },
+        "icon": "circle",
+        "iconstyle": {
+          "fillColor": "red",
+          "fillOpacity": 0.8,
+          "stroke": "true",
+          "radius": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.311610267,
           53.78694227
         ]
@@ -6253,6 +7442,35 @@
         "x": 3762.934100267445,
         "y": -86.15582781404348,
         "z": 5140.286483298194,
+        "style": {
+          "color": "red"
+        },
+        "icon": "circle",
+        "iconstyle": {
+          "fillColor": "red",
+          "fillOpacity": 0.8,
+          "stroke": "true",
+          "radius": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.567735312,
+          53.79166096
+        ]
+      },
+      "properties": {
+        "Name": "SIG:L3606",
+        "berth": "Y23606",
+        "platform": 0,
+        "observation": "",
+        "x": 3762.0881772446655,
+        "y": -102.96449199951516,
+        "z": 5140.596449831788,
         "style": {
           "color": "red"
         },
@@ -6618,6 +7836,64 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.556265436,
+          53.79216362
+        ]
+      },
+      "properties": {
+        "Name": "SIG:L3629",
+        "berth": "Y23629",
+        "platform": 0,
+        "observation": "",
+        "x": 3762.0636316927307,
+        "y": -102.21014358995723,
+        "z": 5140.629467063564,
+        "style": {
+          "color": "red"
+        },
+        "icon": "circle",
+        "iconstyle": {
+          "fillColor": "red",
+          "fillOpacity": 0.8,
+          "stroke": "true",
+          "radius": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.558429754,
+          53.79139088
+        ]
+      },
+      "properties": {
+        "Name": "SIG:L3630",
+        "berth": "Y23630",
+        "platform": 0,
+        "observation": "",
+        "x": 3762.129073023031,
+        "y": -102.35413903714381,
+        "z": 5140.578709458385,
+        "style": {
+          "color": "red"
+        },
+        "icon": "circle",
+        "iconstyle": {
+          "fillColor": "red",
+          "fillOpacity": 0.8,
+          "stroke": "true",
+          "radius": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.5567923080000001,
           53.79224337
         ]
@@ -6688,6 +7964,35 @@
         "x": 3762.016198625926,
         "y": -102.13577531458772,
         "z": 5140.665657740934,
+        "style": {
+          "color": "red"
+        },
+        "icon": "circle",
+        "iconstyle": {
+          "fillColor": "red",
+          "fillOpacity": 0.8,
+          "stroke": "true",
+          "radius": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.555207805,
+          53.79269048
+        ]
+      },
+      "properties": {
+        "Name": "SIG:L3635",
+        "berth": "Y23635",
+        "platform": 0,
+        "observation": "",
+        "x": 3762.0182646584713,
+        "y": -102.13941617157133,
+        "z": 5140.664073448117,
         "style": {
           "color": "red"
         },
@@ -7256,35 +8561,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.54865962,
-          53.79412489999999
-        ]
-      },
-      "properties": {
-        "Name": "SIG:L3667",
-        "berth": "Y23667",
-        "platform": " ",
-        "observation": "",
-        "x": 3761.901260832991,
-        "y": -101.70598604079356,
-        "z": 5140.758289994446,
-        "style": {
-          "color": "red"
-        },
-        "icon": "circle",
-        "iconstyle": {
-          "fillColor": "red",
-          "fillOpacity": 0.8,
-          "stroke": "true",
-          "radius": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.5479620840000001,
           53.79430514
         ]
@@ -7459,35 +8735,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.5486940740000001,
-          53.79384468
-        ]
-      },
-      "properties": {
-        "Name": "SIG:L3676",
-        "berth": "Y23676",
-        "platform": "P16",
-        "observation": "",
-        "x": 3761.9263326672385,
-        "y": -101.70892771202837,
-        "z": 5140.739884647782,
-        "style": {
-          "color": "red"
-        },
-        "icon": "circle",
-        "iconstyle": {
-          "fillColor": "red",
-          "fillOpacity": 0.8,
-          "stroke": "true",
-          "radius": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.546220231,
           53.79427859
         ]
@@ -7558,35 +8805,6 @@
         "x": 3761.866009697572,
         "y": -101.59764492919966,
         "z": 5140.786228158773,
-        "style": {
-          "color": "red"
-        },
-        "icon": "circle",
-        "iconstyle": {
-          "fillColor": "red",
-          "fillOpacity": 0.8,
-          "stroke": "true",
-          "radius": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.5451377469999998,
-          53.79455673
-        ]
-      },
-      "properties": {
-        "Name": "SIG:L3681",
-        "berth": "Y23681",
-        "platform": "P12",
-        "observation": "",
-        "x": 3761.868774247866,
-        "y": -101.47370350449305,
-        "z": 5140.786653114088,
         "style": {
           "color": "red"
         },
@@ -7894,35 +9112,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.546728717,
-          53.79415964
-        ]
-      },
-      "properties": {
-        "Name": "SIG:L3690",
-        "berth": "Y23690",
-        "platform": "P16",
-        "observation": "",
-        "x": 3761.901570403488,
-        "y": -101.57912346310168,
-        "z": 5140.760571770702,
-        "style": {
-          "color": "red"
-        },
-        "icon": "circle",
-        "iconstyle": {
-          "fillColor": "red",
-          "fillOpacity": 0.8,
-          "stroke": "true",
-          "radius": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.5409307069999998,
           53.79510886
         ]
@@ -8155,6 +9344,35 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.5454598959999999,
+          53.78479059
+        ]
+      },
+      "properties": {
+        "Name": "SIG:L3854",
+        "berth": "Y23854",
+        "platform": 0,
+        "observation": "",
+        "x": 3762.7440840076624,
+        "y": -101.51848600935946,
+        "z": 5140.145129786094,
+        "style": {
+          "color": "red"
+        },
+        "icon": "circle",
+        "iconstyle": {
+          "fillColor": "red",
+          "fillOpacity": 0.8,
+          "stroke": "true",
+          "radius": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.55013356,
           53.79387296
         ]
@@ -8271,6 +9489,35 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.568334242,
+          53.79522082
+        ]
+      },
+      "properties": {
+        "Name": "SIG:L3875",
+        "berth": "Y23875",
+        "platform": 0,
+        "observation": "",
+        "x": 3761.767821278656,
+        "y": -102.99507654143645,
+        "z": 5140.83027078318,
+        "style": {
+          "color": "red"
+        },
+        "icon": "circle",
+        "iconstyle": {
+          "fillColor": "red",
+          "fillOpacity": 0.8,
+          "stroke": "true",
+          "radius": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.546139802,
           53.79429176
         ]
@@ -8358,6 +9605,35 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.543613254,
+          53.78461442
+        ]
+      },
+      "properties": {
+        "Name": "SIG:L4490 LOS",
+        "berth": "Y24490",
+        "platform": 0,
+        "observation": "",
+        "x": 3762.763152882754,
+        "y": -101.39763852179715,
+        "z": 5140.133556067394,
+        "style": {
+          "color": "red"
+        },
+        "icon": "circle",
+        "iconstyle": {
+          "fillColor": "red",
+          "fillOpacity": 0.8,
+          "stroke": "true",
+          "radius": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.229766231,
           53.82419194
         ]
@@ -8370,6 +9646,64 @@
         "x": 3759.7114536809727,
         "y": -80.70884714097087,
         "z": 5142.732431991119,
+        "style": {
+          "color": "red"
+        },
+        "icon": "circle",
+        "iconstyle": {
+          "fillColor": "red",
+          "fillOpacity": 0.8,
+          "stroke": "true",
+          "radius": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5504162559999999,
+          53.79357923
+        ]
+      },
+      "properties": {
+        "Name": "SIG:L3646",
+        "berth": "Y2A646",
+        "platform": "P17",
+        "observation": "",
+        "x": 3761.947081994134,
+        "y": -101.82264709623743,
+        "z": 5140.722449307504,
+        "style": {
+          "color": "red"
+        },
+        "icon": "circle",
+        "iconstyle": {
+          "fillColor": "red",
+          "fillOpacity": 0.8,
+          "stroke": "true",
+          "radius": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.549689347,
+          53.79376510000001
+        ]
+      },
+      "properties": {
+        "Name": "SIG:L3650",
+        "berth": "Y2A650",
+        "platform": "P13",
+        "observation": "",
+        "x": 3761.931702863372,
+        "y": -101.77446842914303,
+        "z": 5140.734657669802,
         "style": {
           "color": "red"
         },
@@ -10069,6 +11403,93 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.6233510359999999,
+          53.71188935
+        ]
+      },
+      "properties": {
+        "Name": "SIG:B3",
+        "berth": "Y60003",
+        "platform": " ",
+        "observation": "",
+        "x": 3769.1370740614484,
+        "y": -106.81886856915233,
+        "z": 5135.351638033477,
+        "style": {
+          "color": "red"
+        },
+        "icon": "circle",
+        "iconstyle": {
+          "fillColor": "red",
+          "fillOpacity": 0.8,
+          "stroke": "true",
+          "radius": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6296697359999999,
+          53.69893796
+        ]
+      },
+      "properties": {
+        "Name": "SIG:B8",
+        "berth": "Y60008",
+        "platform": " ",
+        "observation": "",
+        "x": 3770.285522571976,
+        "y": -107.26754640256341,
+        "z": 5134.4991724386255,
+        "style": {
+          "color": "red"
+        },
+        "icon": "circle",
+        "iconstyle": {
+          "fillColor": "red",
+          "fillOpacity": 0.8,
+          "stroke": "true",
+          "radius": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.648404299,
+          53.676468299999996
+        ]
+      },
+      "properties": {
+        "Name": "SIG:HM33",
+        "berth": "Y60033",
+        "platform": 0,
+        "observation": "",
+        "x": 3772.2627176587525,
+        "y": -108.55826281892793,
+        "z": 5133.0195881698655,
+        "style": {
+          "color": "red"
+        },
+        "icon": "circle",
+        "iconstyle": {
+          "fillColor": "red",
+          "fillOpacity": 0.8,
+          "stroke": "true",
+          "radius": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.7454804019999999,
           53.68908129
         ]
@@ -10214,6 +11635,35 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.7106339869999998,
+          53.67681079
+        ]
+      },
+      "properties": {
+        "Name": "SIG:HM554",
+        "berth": "Y60554",
+        "platform": 0,
+        "observation": "",
+        "x": 3772.1119167699067,
+        "y": -112.65438542041744,
+        "z": 5133.042146408698,
+        "style": {
+          "color": "red"
+        },
+        "icon": "circle",
+        "iconstyle": {
+          "fillColor": "red",
+          "fillOpacity": 0.8,
+          "stroke": "true",
+          "radius": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.7051136919999998,
           53.67484438
         ]
@@ -10255,6 +11705,35 @@
         "x": 3772.554941058095,
         "y": -111.74379328839957,
         "z": 5132.736457423045,
+        "style": {
+          "color": "red"
+        },
+        "icon": "circle",
+        "iconstyle": {
+          "fillColor": "red",
+          "fillOpacity": 0.8,
+          "stroke": "true",
+          "radius": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.694093485,
+          53.67147819
+        ]
+      },
+      "properties": {
+        "Name": "SIG:HM562",
+        "berth": "Y60562",
+        "platform": 0,
+        "observation": "",
+        "x": 3772.621795763574,
+        "y": -111.57954703873138,
+        "z": 5132.690891804439,
         "style": {
           "color": "red"
         },
@@ -10707,6 +12186,35 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.738973031,
+          53.67802749
+        ]
+      },
+      "properties": {
+        "Name": "SIG:HM655",
+        "berth": "Y60655",
+        "platform": 0,
+        "observation": "",
+        "x": 3771.946782466187,
+        "y": -114.5167865980832,
+        "z": 5133.122283350575,
+        "style": {
+          "color": "red"
+        },
+        "icon": "circle",
+        "iconstyle": {
+          "fillColor": "red",
+          "fillOpacity": 0.8,
+          "stroke": "true",
+          "radius": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.655890044,
           53.675472899999995
         ]
@@ -10823,35 +12331,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.9376045080000002,
-          53.60384085
-        ]
-      },
-      "properties": {
-        "Name": "SIG:HU700",
-        "berth": "Y60700",
-        "platform": " ",
-        "observation": "",
-        "x": 3778.166521988124,
-        "y": -127.81717089899699,
-        "z": 5128.231810570924,
-        "style": {
-          "color": "red"
-        },
-        "icon": "circle",
-        "iconstyle": {
-          "fillColor": "red",
-          "fillOpacity": 0.8,
-          "stroke": "true",
-          "radius": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.937333674,
           53.60381308
         ]
@@ -10893,6 +12372,35 @@
         "x": 3778.1733258430845,
         "y": -127.81702940074457,
         "z": 5128.226801427855,
+        "style": {
+          "color": "red"
+        },
+        "icon": "circle",
+        "iconstyle": {
+          "fillColor": "red",
+          "fillOpacity": 0.8,
+          "stroke": "true",
+          "radius": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.930359845,
+          53.60314241
+        ]
+      },
+      "properties": {
+        "Name": "SIG:HU703",
+        "berth": "Y60703",
+        "platform": 0,
+        "observation": "",
+        "x": 3778.2451311877867,
+        "y": -127.34155207250913,
+        "z": 5128.185727698593,
         "style": {
           "color": "red"
         },
@@ -10980,35 +12488,6 @@
         "x": 3778.2202925006136,
         "y": -127.25651724811564,
         "z": 5128.206138617524,
-        "style": {
-          "color": "red"
-        },
-        "icon": "circle",
-        "iconstyle": {
-          "fillColor": "red",
-          "fillOpacity": 0.8,
-          "stroke": "true",
-          "radius": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.90896066,
-          53.61444347
-        ]
-      },
-      "properties": {
-        "Name": "SIG:HU709",
-        "berth": "Y60709",
-        "platform": " ",
-        "observation": "",
-        "x": 3777.2814288808963,
-        "y": -125.8967240904044,
-        "z": 5128.9312748266375,
         "style": {
           "color": "red"
         },
@@ -11212,6 +12691,35 @@
         "x": 3775.3278888350187,
         "y": -118.67859870219549,
         "z": 5130.5414647963435,
+        "style": {
+          "color": "red"
+        },
+        "icon": "circle",
+        "iconstyle": {
+          "fillColor": "red",
+          "fillOpacity": 0.8,
+          "stroke": "true",
+          "radius": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.7944684169999998,
+          53.64340608
+        ]
+      },
+      "properties": {
+        "Name": "SIG:HU753",
+        "berth": "Y60753",
+        "platform": 0,
+        "observation": "",
+        "x": 3774.9336130436222,
+        "y": -118.26726073232399,
+        "z": 5130.841068689645,
         "style": {
           "color": "red"
         },
@@ -11519,6 +13027,325 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.783195649,
+          53.6507282
+        ]
+      },
+      "properties": {
+        "Name": "SIG:HU1417",
+        "berth": "Y61417",
+        "platform": 0,
+        "observation": "",
+        "x": 3774.3013990513805,
+        "y": -117.50414723229834,
+        "z": 5131.3236815174705,
+        "style": {
+          "color": "red"
+        },
+        "icon": "circle",
+        "iconstyle": {
+          "fillColor": "red",
+          "fillOpacity": 0.8,
+          "stroke": "true",
+          "radius": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.764358914,
+          53.69333362
+        ]
+      },
+      "properties": {
+        "Name": "SIG:DH5322",
+        "berth": "Y65322",
+        "platform": 0,
+        "observation": "",
+        "x": 3770.52491471389,
+        "y": -116.14577703912235,
+        "z": 5134.13021124297,
+        "style": {
+          "color": "red"
+        },
+        "icon": "circle",
+        "iconstyle": {
+          "fillColor": "red",
+          "fillOpacity": 0.8,
+          "stroke": "true",
+          "radius": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.785658282,
+          53.64711193
+        ]
+      },
+      "properties": {
+        "Name": "SIG:HU760",
+        "berth": "Y6A760",
+        "platform": 2,
+        "observation": "",
+        "x": 3774.62004801453,
+        "y": -117.67646224438138,
+        "z": 5131.085337758517,
+        "style": {
+          "color": "red"
+        },
+        "icon": "circle",
+        "iconstyle": {
+          "fillColor": "red",
+          "fillOpacity": 0.8,
+          "stroke": "true",
+          "radius": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.784016061,
+          53.64975149
+        ]
+      },
+      "properties": {
+        "Name": "SIG:HU767",
+        "berth": "Y6A767",
+        "platform": 6,
+        "observation": "",
+        "x": 3774.3871458635604,
+        "y": -117.56091420470503,
+        "z": 5131.259309817745,
+        "style": {
+          "color": "red"
+        },
+        "icon": "circle",
+        "iconstyle": {
+          "fillColor": "red",
+          "fillOpacity": 0.8,
+          "stroke": "true",
+          "radius": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.784061493,
+          53.64964719
+        ]
+      },
+      "properties": {
+        "Name": "SIG:HU769",
+        "berth": "Y6A769",
+        "platform": 5,
+        "observation": "",
+        "x": 3774.396388943387,
+        "y": -117.56419786493308,
+        "z": 5131.252435664366,
+        "style": {
+          "color": "red"
+        },
+        "icon": "circle",
+        "iconstyle": {
+          "fillColor": "red",
+          "fillOpacity": 0.8,
+          "stroke": "true",
+          "radius": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6233510359999999,
+          53.71188935
+        ]
+      },
+      "properties": {
+        "Name": "SIG:B3",
+        "berth": "Y6B003",
+        "platform": 0,
+        "observation": "",
+        "x": 3769.1370740614484,
+        "y": -106.81886856915233,
+        "z": 5135.351638033477,
+        "style": {
+          "color": "red"
+        },
+        "icon": "circle",
+        "iconstyle": {
+          "fillColor": "red",
+          "fillOpacity": 0.8,
+          "stroke": "true",
+          "radius": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6296697359999999,
+          53.69893796
+        ]
+      },
+      "properties": {
+        "Name": "SIG:B8",
+        "berth": "Y6B008",
+        "platform": 0,
+        "observation": "",
+        "x": 3770.285522571976,
+        "y": -107.26754640256341,
+        "z": 5134.4991724386255,
+        "style": {
+          "color": "red"
+        },
+        "icon": "circle",
+        "iconstyle": {
+          "fillColor": "red",
+          "fillOpacity": 0.8,
+          "stroke": "true",
+          "radius": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.641750586,
+          53.68565638
+        ]
+      },
+      "properties": {
+        "Name": "SIG:B15",
+        "berth": "Y6B015",
+        "platform": 0,
+        "observation": "",
+        "x": 3771.4524458432516,
+        "y": -108.09660778776428,
+        "z": 5133.624701137369,
+        "style": {
+          "color": "red"
+        },
+        "icon": "circle",
+        "iconstyle": {
+          "fillColor": "red",
+          "fillOpacity": 0.8,
+          "stroke": "true",
+          "radius": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.650736762,
+          53.67847954
+        ]
+      },
+      "properties": {
+        "Name": "SIG:B685",
+        "berth": "Y6B685",
+        "platform": 0,
+        "observation": "",
+        "x": 3772.078184514818,
+        "y": -108.70663780365474,
+        "z": 5133.152056661172,
+        "style": {
+          "color": "red"
+        },
+        "icon": "circle",
+        "iconstyle": {
+          "fillColor": "red",
+          "fillOpacity": 0.8,
+          "stroke": "true",
+          "radius": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9916215730000002,
+          53.56829616
+        ]
+      },
+      "properties": {
+        "Name": "SIG:DE2",
+        "berth": "Y6D002",
+        "platform": 0,
+        "observation": "",
+        "x": 3781.2231017513486,
+        "y": -131.4896163224451,
+        "z": 5125.885614757833,
+        "style": {
+          "color": "red"
+        },
+        "icon": "circle",
+        "iconstyle": {
+          "fillColor": "red",
+          "fillOpacity": 0.8,
+          "stroke": "true",
+          "radius": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.991508186,
+          53.56849628
+        ]
+      },
+      "properties": {
+        "Name": "SIG:DE16",
+        "berth": "Y6D016",
+        "platform": 0,
+        "observation": "",
+        "x": 3781.2054692977877,
+        "y": -131.48151120021015,
+        "z": 5125.898829587354,
+        "style": {
+          "color": "red"
+        },
+        "icon": "circle",
+        "iconstyle": {
+          "fillColor": "red",
+          "fillOpacity": 0.8,
+          "stroke": "true",
+          "radius": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.99371021,
           53.56683492
         ]
@@ -11606,6 +13433,122 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.035506871,
+          53.52236551
+        ]
+      },
+      "properties": {
+        "Name": "SIG:SE106",
+        "berth": "Y6E106",
+        "platform": 0,
+        "observation": "",
+        "x": 3785.226591292457,
+        "y": -134.5316865514347,
+        "z": 5122.850952144335,
+        "style": {
+          "color": "red"
+        },
+        "icon": "circle",
+        "iconstyle": {
+          "fillColor": "red",
+          "fillOpacity": 0.8,
+          "stroke": "true",
+          "radius": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.024281077,
+          53.53577039
+        ]
+      },
+      "properties": {
+        "Name": "SIG:SE108",
+        "berth": "Y6E108",
+        "platform": 0,
+        "observation": "",
+        "x": 3784.05498282295,
+        "y": -133.74771596846145,
+        "z": 5123.736960017173,
+        "style": {
+          "color": "red"
+        },
+        "icon": "circle",
+        "iconstyle": {
+          "fillColor": "red",
+          "fillOpacity": 0.8,
+          "stroke": "true",
+          "radius": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.009941091,
+          53.54382819
+        ]
+      },
+      "properties": {
+        "Name": "SIG:SE110",
+        "berth": "Y6E110",
+        "platform": 0,
+        "observation": "",
+        "x": 3783.368167124672,
+        "y": -132.7753645690897,
+        "z": 5124.2694127603445,
+        "style": {
+          "color": "red"
+        },
+        "icon": "circle",
+        "iconstyle": {
+          "fillColor": "red",
+          "fillOpacity": 0.8,
+          "stroke": "true",
+          "radius": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.785658282,
+          53.64711193
+        ]
+      },
+      "properties": {
+        "Name": "SIG:HU760",
+        "berth": "Y6R760",
+        "platform": 2,
+        "observation": "",
+        "x": 3774.62004801453,
+        "y": -117.67646224438138,
+        "z": 5131.085337758517,
+        "style": {
+          "color": "red"
+        },
+        "icon": "circle",
+        "iconstyle": {
+          "fillColor": "red",
+          "fillOpacity": 0.8,
+          "stroke": "true",
+          "radius": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.784016061,
           53.64975149
         ]
@@ -11664,6 +13607,35 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.0229838190000002,
+          53.53611683
+        ]
+      },
+      "properties": {
+        "Name": "SIG:SE111",
+        "berth": "Y6S111",
+        "platform": 0,
+        "observation": "",
+        "x": 3784.0270485602387,
+        "y": -133.66094590751442,
+        "z": 5123.75985457004,
+        "style": {
+          "color": "red"
+        },
+        "icon": "circle",
+        "iconstyle": {
+          "fillColor": "red",
+          "fillOpacity": 0.8,
+          "stroke": "true",
+          "radius": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.0042738140000003,
           53.55660563
         ]
@@ -11693,18 +13665,18 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.197694948,
-          53.50141702
+          -2.010527351,
+          53.54260153
         ]
       },
       "properties": {
-        "Name": "SIG:MN713",
-        "berth": "M20713",
+        "Name": "SIG:SE113",
+        "berth": "Y6S113",
         "platform": 0,
         "observation": "",
-        "x": 3786.701992103153,
-        "y": -145.31785056194917,
-        "z": 5121.465780937139,
+        "x": 3783.4764467387217,
+        "y": -132.8179254444053,
+        "z": 5124.188362624268,
         "style": {
           "color": "red"
         },
@@ -11722,18 +13694,18 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.197756893,
-          53.50146768
+          -2.0084335369999997,
+          53.55146066
         ]
       },
       "properties": {
-        "Name": "SIG:MN867",
-        "berth": "M2X867",
+        "Name": "SIG:SE115",
+        "berth": "Y6S115",
         "platform": 0,
         "observation": "",
-        "x": 3786.6973100037835,
-        "y": -145.3217708777029,
-        "z": 5121.469131540196,
+        "x": 3782.689432346478,
+        "y": -132.6518929339821,
+        "z": 5124.773666584243,
         "style": {
           "color": "red"
         },
@@ -11751,18 +13723,47 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.0931,
-          53.9586
+          -1.785243844,
+          53.64776128
         ]
       },
       "properties": {
-        "Name": "SIG:Y236",
-        "berth": "Y10236",
+        "Name": "SIG:HU762",
+        "berth": "Y6X762",
+        "platform": 1,
+        "observation": "",
+        "x": 3774.5627749831224,
+        "y": -117.64734761326092,
+        "z": 5131.128137097267,
+        "style": {
+          "color": "red"
+        },
+        "icon": "circle",
+        "iconstyle": {
+          "fillColor": "red",
+          "fillOpacity": 0.8,
+          "stroke": "true",
+          "radius": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.7841340909999999,
+          53.64939449
+        ]
+      },
+      "properties": {
+        "Name": "SIG:HU763",
+        "berth": "Y6X763",
         "platform": 4,
-        "observation": "Fake",
-        "x": 3747.820985196536,
-        "y": -71.51033229445935,
-        "z": 5151.540074123039,
+        "observation": "",
+        "x": 3774.418860086996,
+        "y": -117.5696849005109,
+        "z": 5131.235780765875,
         "style": {
           "color": "red"
         },
@@ -11780,18 +13781,18 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.093477939,
-          53.95748809
+          -1.785240978,
+          53.64793482
         ]
       },
       "properties": {
-        "Name": "SIG:Y221",
-        "berth": "Y10221",
-        "platform": 3,
-        "observation": "fake",
-        "x": 3747.9204678144756,
-        "y": -71.53696180965254,
-        "z": 5151.467327862263,
+        "Name": "SIG:HU764",
+        "berth": "Y6X764",
+        "platform": 4,
+        "observation": "",
+        "x": 3774.5472470055197,
+        "y": -117.64667463938936,
+        "z": 5131.139575188863,
         "style": {
           "color": "red"
         },
@@ -11809,18 +13810,47 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.197694948,
-          53.50141702
+          -1.7839830980000002,
+          53.64985454
         ]
       },
       "properties": {
-        "Name": "SIG:MN713",
-        "berth": "M20713",
+        "Name": "SIG:HU765",
+        "berth": "Y6X765",
+        "platform": 8,
+        "observation": "",
+        "x": 3774.3779890774103,
+        "y": -117.55845544325888,
+        "z": 5131.266101570037,
+        "style": {
+          "color": "red"
+        },
+        "icon": "circle",
+        "iconstyle": {
+          "fillColor": "red",
+          "fillOpacity": 0.8,
+          "stroke": "true",
+          "radius": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.780912031,
+          53.65361887
+        ]
+      },
+      "properties": {
+        "Name": "SIG:HU770",
+        "berth": "Y6X770",
         "platform": 0,
         "observation": "",
-        "x": 3786.701992103153,
-        "y": -145.31785056194917,
-        "z": 5121.465780937139,
+        "x": 3774.0473155714726,
+        "y": -117.3456704286956,
+        "z": 5131.51418720239,
         "style": {
           "color": "red"
         },
@@ -11838,714 +13868,18 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.197756893,
-          53.50146768
+          -1.780629015,
+          53.65406895
         ]
       },
       "properties": {
-        "Name": "SIG:MN867",
-        "berth": "M2X867",
+        "Name": "SIG:HU771",
+        "berth": "Y6X771",
         "platform": 0,
         "observation": "",
-        "x": 3786.6973100037835,
-        "y": -145.3217708777029,
-        "z": 5121.469131540196,
-        "style": {
-          "color": "red"
-        },
-        "icon": "circle",
-        "iconstyle": {
-          "fillColor": "red",
-          "fillOpacity": 0.8,
-          "stroke": "true",
-          "radius": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.201983144,
-          53.49483266
-        ]
-      },
-      "properties": {
-        "Name": "SIG:MN1622",
-        "berth": "M21622",
-        "platform": 0,
-        "observation": "",
-        "x": 3787.2791983560264,
-        "y": -145.623871454696,
-        "z": 5121.030263703025,
-        "style": {
-          "color": "red"
-        },
-        "icon": "circle",
-        "iconstyle": {
-          "fillColor": "red",
-          "fillOpacity": 0.8,
-          "stroke": "true",
-          "radius": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.100591231,
-          53.95312317
-        ]
-      },
-      "properties": {
-        "Name": "SIG:Y213",
-        "berth": "Y10213",
-        "platform": 0,
-        "observation": "",
-        "x": 3748.3039245587347,
-        "y": -72.00980483613795,
-        "z": 5151.181735984962,
-        "style": {
-          "color": "red"
-        },
-        "icon": "circle",
-        "iconstyle": {
-          "fillColor": "red",
-          "fillOpacity": 0.8,
-          "stroke": "true",
-          "radius": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.0933,
-          53.9592
-        ]
-      },
-      "properties": {
-        "Name": "SIG:Y217",
-        "berth": "Y10217",
-        "platform": 5,
-        "observation": "fake",
-        "x": 3747.766798369557,
-        "y": -71.5223853199057,
-        "z": 5151.579328073765,
-        "style": {
-          "color": "red"
-        },
-        "icon": "circle",
-        "iconstyle": {
-          "fillColor": "red",
-          "fillOpacity": 0.8,
-          "stroke": "true",
-          "radius": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.096145635,
-          53.956197700000004
-        ]
-      },
-      "properties": {
-        "Name": "SIG:Y628",
-        "berth": "Y10628",
-        "platform": 0,
-        "observation": "",
-        "x": 3748.0331298539027,
-        "y": -71.71368465129797,
-        "z": 5151.382902187654,
-        "style": {
-          "color": "red"
-        },
-        "icon": "circle",
-        "iconstyle": {
-          "fillColor": "red",
-          "fillOpacity": 0.8,
-          "stroke": "true",
-          "radius": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.5197810040000002,
-          53.79423684
-        ]
-      },
-      "properties": {
-        "Name": "SIG:L190 LOS",
-        "berth": "Y20190",
-        "platform": 0,
-        "observation": "",
-        "x": 3761.9420054599327,
-        "y": -99.80960727135994,
-        "z": 5140.765642377839,
-        "style": {
-          "color": "red"
-        },
-        "icon": "circle",
-        "iconstyle": {
-          "fillColor": "red",
-          "fillOpacity": 0.8,
-          "stroke": "true",
-          "radius": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.52423234,
-          53.79572596
-        ]
-      },
-      "properties": {
-        "Name": "SIG:L185",
-        "berth": "Y20185",
-        "platform": 0,
-        "observation": "",
-        "x": 3761.8006771160644,
-        "y": -100.0983200188641,
-        "z": 5140.863448096878,
-        "style": {
-          "color": "red"
-        },
-        "icon": "circle",
-        "iconstyle": {
-          "fillColor": "red",
-          "fillOpacity": 0.8,
-          "stroke": "true",
-          "radius": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.568334242,
-          53.79522082
-        ]
-      },
-      "properties": {
-        "Name": "SIG:L3875",
-        "berth": "Y23875",
-        "platform": 0,
-        "observation": "",
-        "x": 3761.767821278656,
-        "y": -102.99507654143645,
-        "z": 5140.83027078318,
-        "style": {
-          "color": "red"
-        },
-        "icon": "circle",
-        "iconstyle": {
-          "fillColor": "red",
-          "fillOpacity": 0.8,
-          "stroke": "true",
-          "radius": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.558429754,
-          53.79139088
-        ]
-      },
-      "properties": {
-        "Name": "SIG:L3630",
-        "berth": "Y23630",
-        "platform": 0,
-        "observation": "",
-        "x": 3762.129073023031,
-        "y": -102.35413903714381,
-        "z": 5140.578709458385,
-        "style": {
-          "color": "red"
-        },
-        "icon": "circle",
-        "iconstyle": {
-          "fillColor": "red",
-          "fillOpacity": 0.8,
-          "stroke": "true",
-          "radius": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.567735312,
-          53.79166096
-        ]
-      },
-      "properties": {
-        "Name": "SIG:L3606",
-        "berth": "Y23606",
-        "platform": 0,
-        "observation": "",
-        "x": 3762.0881772446655,
-        "y": -102.96449199951516,
-        "z": 5140.596449831788,
-        "style": {
-          "color": "red"
-        },
-        "icon": "circle",
-        "iconstyle": {
-          "fillColor": "red",
-          "fillOpacity": 0.8,
-          "stroke": "true",
-          "radius": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.555207805,
-          53.79269048
-        ]
-      },
-      "properties": {
-        "Name": "SIG:L3635",
-        "berth": "Y23635",
-        "platform": 0,
-        "observation": "",
-        "x": 3762.0182646584713,
-        "y": -102.13941617157133,
-        "z": 5140.664073448117,
-        "style": {
-          "color": "red"
-        },
-        "icon": "circle",
-        "iconstyle": {
-          "fillColor": "red",
-          "fillOpacity": 0.8,
-          "stroke": "true",
-          "radius": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.5454598959999999,
-          53.78479059
-        ]
-      },
-      "properties": {
-        "Name": "SIG:L3854",
-        "berth": "Y23854",
-        "platform": 0,
-        "observation": "",
-        "x": 3762.7440840076624,
-        "y": -101.51848600935946,
-        "z": 5140.145129786094,
-        "style": {
-          "color": "red"
-        },
-        "icon": "circle",
-        "iconstyle": {
-          "fillColor": "red",
-          "fillOpacity": 0.8,
-          "stroke": "true",
-          "radius": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.543613254,
-          53.78461442
-        ]
-      },
-      "properties": {
-        "Name": "SIG:L4490 LOS",
-        "berth": "Y24490",
-        "platform": 0,
-        "observation": "",
-        "x": 3762.763152882754,
-        "y": -101.39763852179715,
-        "z": 5140.133556067394,
-        "style": {
-          "color": "red"
-        },
-        "icon": "circle",
-        "iconstyle": {
-          "fillColor": "red",
-          "fillOpacity": 0.8,
-          "stroke": "true",
-          "radius": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.556265436,
-          53.79216362
-        ]
-      },
-      "properties": {
-        "Name": "SIG:L3629",
-        "berth": "Y23629",
-        "platform": 0,
-        "observation": "",
-        "x": 3762.0636316927307,
-        "y": -102.21014358995723,
-        "z": 5140.629467063564,
-        "style": {
-          "color": "red"
-        },
-        "icon": "circle",
-        "iconstyle": {
-          "fillColor": "red",
-          "fillOpacity": 0.8,
-          "stroke": "true",
-          "radius": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.764358914,
-          53.69333362
-        ]
-      },
-      "properties": {
-        "Name": "SIG:DH5322",
-        "berth": "Y65322",
-        "platform": 0,
-        "observation": "",
-        "x": 3770.52491471389,
-        "y": -116.14577703912235,
-        "z": 5134.13021124297,
-        "style": {
-          "color": "red"
-        },
-        "icon": "circle",
-        "iconstyle": {
-          "fillColor": "red",
-          "fillOpacity": 0.8,
-          "stroke": "true",
-          "radius": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.738973031,
-          53.67802749
-        ]
-      },
-      "properties": {
-        "Name": "SIG:HM655",
-        "berth": "Y60655",
-        "platform": 0,
-        "observation": "",
-        "x": 3771.946782466187,
-        "y": -114.5167865980832,
-        "z": 5133.122283350575,
-        "style": {
-          "color": "red"
-        },
-        "icon": "circle",
-        "iconstyle": {
-          "fillColor": "red",
-          "fillOpacity": 0.8,
-          "stroke": "true",
-          "radius": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.991508186,
-          53.56849628
-        ]
-      },
-      "properties": {
-        "Name": "SIG:DE16",
-        "berth": "Y6D016",
-        "platform": 0,
-        "observation": "",
-        "x": 3781.2054692977877,
-        "y": -131.48151120021015,
-        "z": 5125.898829587354,
-        "style": {
-          "color": "red"
-        },
-        "icon": "circle",
-        "iconstyle": {
-          "fillColor": "red",
-          "fillOpacity": 0.8,
-          "stroke": "true",
-          "radius": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.0961,
-          53.9564
-        ]
-      },
-      "properties": {
-        "Name": "SIG:Y630",
-        "berth": "Y10630",
-        "platform": 0,
-        "observation": "Fake",
-        "x": 3748.0150017678375,
-        "y": -71.71035147862216,
-        "z": 5151.396138137121,
-        "style": {
-          "color": "red"
-        },
-        "icon": "circle",
-        "iconstyle": {
-          "fillColor": "red",
-          "fillOpacity": 0.8,
-          "stroke": "true",
-          "radius": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.0941,
-          53.9586
-        ]
-      },
-      "properties": {
-        "Name": "SIG:Y223",
-        "berth": "Y10223",
-        "platform": "P11",
-        "observation": "Fake",
-        "x": 3747.8197365349624,
-        "y": -71.57574409953142,
-        "z": 5151.540074123039,
-        "style": {
-          "color": "red"
-        },
-        "icon": "circle",
-        "iconstyle": {
-          "fillColor": "red",
-          "fillOpacity": 0.8,
-          "stroke": "true",
-          "radius": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.0939,
-          53.9586
-        ]
-      },
-      "properties": {
-        "Name": "SIG:Y225",
-        "berth": "Y10225",
-        "platform": "P10",
-        "observation": "Fake",
-        "x": 3747.819986358609,
-        "y": -71.56266174026062,
-        "z": 5151.540074123039,
-        "style": {
-          "color": "red"
-        },
-        "icon": "circle",
-        "iconstyle": {
-          "fillColor": "red",
-          "fillOpacity": 0.8,
-          "stroke": "true",
-          "radius": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.094,
-          53.9596
-        ]
-      },
-      "properties": {
-        "Name": "SIG:Y227",
-        "berth": "Y10227",
-        "platform": "P9",
-        "observation": "Fake",
-        "x": 3747.729965935139,
-        "y": -71.56748625518094,
-        "z": 5151.605497060398,
-        "style": {
-          "color": "red"
-        },
-        "icon": "circle",
-        "iconstyle": {
-          "fillColor": "red",
-          "fillOpacity": 0.8,
-          "stroke": "true",
-          "radius": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.0937,
-          53.9596
-        ]
-      },
-      "properties": {
-        "Name": "SIG:Y231",
-        "berth": "Y10231",
-        "platform": "P7",
-        "observation": "Fake",
-        "x": 3747.730340610248,
-        "y": -71.5478631859856,
-        "z": 5151.605497060398,
-        "style": {
-          "color": "red"
-        },
-        "icon": "circle",
-        "iconstyle": {
-          "fillColor": "red",
-          "fillOpacity": 0.8,
-          "stroke": "true",
-          "radius": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.0931,
-          53.9606
-        ]
-      },
-      "properties": {
-        "Name": "SIG:Y237",
-        "berth": "Y10237",
-        "platform": "P2",
-        "observation": "Fake",
-        "x": 3747.641192966295,
-        "y": -71.50690176717983,
-        "z": 5151.670918428489,
-        "style": {
-          "color": "red"
-        },
-        "icon": "circle",
-        "iconstyle": {
-          "fillColor": "red",
-          "fillOpacity": 0.8,
-          "stroke": "true",
-          "radius": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.0931,
-          53.9606
-        ]
-      },
-      "properties": {
-        "Name": "SIG:Y237",
-        "berth": "Y10239",
-        "platform": "P2(siding)",
-        "observation": "Fake",
-        "x": 3747.641192966295,
-        "y": -71.50690176717983,
-        "z": 5151.670918428489,
-        "style": {
-          "color": "red"
-        },
-        "icon": "circle",
-        "iconstyle": {
-          "fillColor": "red",
-          "fillOpacity": 0.8,
-          "stroke": "true",
-          "radius": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.648404299,
-          53.676468299999996
-        ]
-      },
-      "properties": {
-        "Name": "SIG:HM33",
-        "berth": "Y60033",
-        "platform": 0,
-        "observation": "",
-        "x": 3772.2627176587525,
-        "y": -108.55826281892793,
-        "z": 5133.0195881698655,
+        "x": 3774.0076045267338,
+        "y": -117.32577574105582,
+        "z": 5131.543847939053,
         "style": {
           "color": "red"
         },
